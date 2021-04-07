@@ -1,0 +1,22 @@
+.team-player{
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px gray;
+}
+.team-player img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.team-player-info{
+    margin-left: 10px;
+    align-self: center;
+}
+.font{
+    font-size: 22px;
+    font-weight: 500;
+    color: black;
+}

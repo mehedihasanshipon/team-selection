@@ -1,0 +1,40 @@
+.player-info{
+    box-shadow: 5px 5px 10px gray;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.player-info img{
+    height: 300px !important;
+    width: 320px !important;
+    border-radius: 10%;
+    padding: 20px;
+}
+.player-body{
+    margin-left: 15px;
+    padding: 18px;
+}
+.player-body li{
+    font-weight: 600 !important;
+}
+.b{
+    font-size: 20px;
+    font-weight: 600;
+}
+.button{
+    background-color: #1A91DA !important;
+    width: 150px;
+    height: 40px;
+    border: none !important;
+    outline: none !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+}
+.button:hover{
+    background-color: #CA2055 !important;
+}
+.button:focus
+{
+         outline: none !important;
+         border: none !important;
+         box-shadow: none !important;
+}

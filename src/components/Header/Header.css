@@ -1,0 +1,21 @@
+.main{
+    margin-bottom: 80px;
+}
+nav{
+    background-color: #c41431 !important;
+}
+nav img{
+    width: 40px;
+    height: 40px;
+}
+.navbar-brand {
+    font-size: 24px;
+    font-weight: 700;
+}
+.navbar-nav li p{
+    color: white !important;
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+    cursor: pointer;
+}
